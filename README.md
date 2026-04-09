@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **AI-integrated Web Apps**
-- 🌱 Learning **TypeScript**, **Docker**, and **System Design**
+- 🌱 Learning **TypeScript, Docker, and System Design**
 - 💬 Ask me about **React, Node.js, Java, Python**
 - 🧠 Always exploring new tech and best practices
 - 📫 Reach me: **harshitagarwal038@gmail.com**
@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit1314&show_icons=true&theme=radical" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit1314&show_icons=true&theme=radical&cache_seconds=1800" height="150px">
   <img src="https://github-readme-streak-stats.demolab.com?user=harshit1314&theme=radical" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1314&layout=compact&theme=radical" height="150px">
 </div>
@@ -38,7 +38,8 @@
 
 ### 📌 Featured Projects
 
-[![PRIME AI](https://github-readme-stats.vercel.app/api/pin/?username=harshit1314&repo=prime-ai&theme=radical)](https://github.com/harshit1314/prime-ai)
+[![PRIME AI](https://github-readme-stats.vercel.app/api/pin/?username=harshit1314&repo=ai-fitness-web&theme=radical)](https://github.com/harshit1314/ai-fitness-web)
+
 [![Unnati Solar Website](https://github-readme-stats.vercel.app/api/pin/?username=harshit1314&repo=unnati-solar&theme=radical)](https://github.com/harshit1314/unnati-solar)
 
 ---
@@ -54,6 +55,9 @@
   </a>
   <a href="https://github.com/harshit1314" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://harshit-portfolio-virid.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
